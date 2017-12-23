@@ -2,20 +2,6 @@
 
 input[type=button],
 .dc-btn {
-    display: inline-block;
-    background: #FFCE55;
-    background: linear-gradient(135deg, transparent 0px, #7ADFBB 0) top left, linear-gradient(225deg, transparent 7px, #7ADFBB 0) top right, linear-gradient(315deg, transparent 0px, #7ADFBB 0) bottom right, linear-gradient(45deg, transparent 7px, #7ADFBB 0) bottom left;
-    background-size: 76% 55%;
-    background-repeat: no-repeat;
-    font-size: 16px;
-    line-height: 1.5;
-    padding: 16px;
-    margin: 15px auto;
-    color: #fff;
-    -webkit-transition: transform .2s;
-    transition: transform .2s ease-in-out;
-    border: none;
-    cursor: pointer;
 }
 
 input[type=button],
