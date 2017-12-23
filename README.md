@@ -1,2 +1,2 @@
 # dotchicken.css
-A chicken spam bot crafted for the most deceiving minds.
+A chicken-styled theme crafted for the most deceiving minds.
